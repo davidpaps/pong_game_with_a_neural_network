@@ -168,6 +168,7 @@ def main():
     inp, out = createGraph()
  
     trainGraph(inp, out, sess)
+    sess.close()
 
 if __name__ == "__main__":
     main()
