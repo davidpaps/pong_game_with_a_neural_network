@@ -36,10 +36,12 @@ Then install pygame:
 pip install pygame
 ```
 
-Then by typing the following we can run the game and watch the neural network train on the pong game:
+Then by typing the following in the command line, we can run the game and watch the neural network train on the pong game:
 
 ```
 python RL.py
 ```
 
+---
+## AI in Action
 <img src="images/screenshot.png">
