@@ -4,7 +4,7 @@ This was my first project using tensorflow. I used this to play around with some
 
 I have been fascinated at the idea of machine learning, and my continued learning into the field of linear algebra and neural networks brought me to tensorflow.
 
-As a ‘dry run’ i used the following tutorial (https://www.youtube.com/watch?v=Hqf__FlRlzg&t=1309s)to help build the game, and then set about modifying the tensor flow code to make it work.
+As a ‘dry run’ I used the following [*tutorial*](https://www.youtube.com/watch?v=Hqf__FlRlzg&t=1309s)to help build the game, and then set about modifying the tensor flow code to make it work.
 
 The right paddle on the screen is linked to the neural network, and will therefore learn as time goes on and it is trained more. The left paddle on the screen has random up/down inputs.
 
